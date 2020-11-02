@@ -1,0 +1,172 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+background-color: whitesmoke;
+  
+}
+
+
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  margin-right: 80px;
+  margin-top: 121px;
+  margin-left: 200px;
+ 
+}
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  margin-right: 80px;
+  margin-top:121px;
+  
+ 
+}
+#dev{
+  margin-left: 750px;
+  margin-top: 40px;
+  display: block;
+}
+.card0{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  margin-right: 500px;
+  margin-top: 121px;
+  
+ 
+}
+.card3{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  margin-right: 80px;
+  margin-top: 121px;
+ 
+ 
+}
+.card4{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  margin-right: 80px;
+  margin-top: 121px;
+  
+
+ 
+}
+.Team{
+  display: inline-block;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+.Team{
+  display:inline-flex;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+.navbar .list ul li {
+  text-decoration: none;
+   padding: 4px;
+  
+}
+.navbar .list ul li a{
+   text-decoration: none;
+   color: white;
+
+  
+}
+
+.navbar .list{
+   border-style: solid;
+   border-color: red;
+   height: 370px;
+   width: 200px;
+   text-decoration: none;
+   background-color: red;
+   float: right;
+   
+   
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+ 
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+#heading{
+  margin-left: 200px;
+  margin-top: 70px;
+}
+
+
